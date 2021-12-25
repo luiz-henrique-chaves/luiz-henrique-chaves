@@ -1,6 +1,5 @@
 - Meu nome é Luiz Henrique
-- Sou desenvolvedor especialista nas Tecnologias: 
-Python, e entusiasta em PHP e JAVASCRIPT.
+- Sou desenvolvedor especialista em Python e entusiasta em PHP e JAVASCRIPT.
 - Atualmente estudando Laravel e React, amo estas Tecnologias.
 - Resido na Capital do Piauí, Teresina.
 
